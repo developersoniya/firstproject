@@ -1,0 +1,21 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ ul{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid red;*/
+    background-color: aqua;
+    padding: 10 px;
+
+}
+/*desended selector*/
+ul li a {
+    text-decoration-style: "none";
+    border:  2px solid red;
+    margin: 10ps;
+    color: brown;
+
+
+}
